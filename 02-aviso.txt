@@ -1,0 +1,8 @@
+# ATUALIZAÇÃO PARA VERSÃO 2.2 BETA
+- Nota de atualização: 
+- Reformulado totalmente o layout e disposição das funções
+- Adicionado função para intalação de modificadores do Windows (Atlas Os / Revi Os)
+- Canal de avisos integrado ao próprio programa!
+
+-- Versão BETA --
+-- Pode conter muitos bugs, caso encontre algum relate no canal Tickes no discord por favor! --
